@@ -19,7 +19,7 @@ What is your group name?
 4. What are 3 applications you could build around this dataset?
 
 
-**8Using one of the application ideas:**
+**Using one of the application ideas:**
 
 
 - What technologies are required for this application?
